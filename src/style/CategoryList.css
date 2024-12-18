@@ -1,0 +1,26 @@
+.category-list {
+    padding: 20px;
+    background-color: #f5f5f5;
+  }
+  
+  .category-list h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .categories {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .category {
+    text-align: center;
+    width: 150px;
+  }
+  
+  .category img {
+    width: 150px;
+    height: 150px;
+    border-radius: 8px;
+  }
+  
